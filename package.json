@@ -1,0 +1,15 @@
+{
+  "name": "oop-mixin-traits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cocktail": "^0.7.1",
+    "lodash.assign": "^3.1.0"
+  }
+}
